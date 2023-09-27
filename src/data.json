@@ -1,0 +1,85 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s the best selling video game to date?",
+      "correct_answer": "Tetris",
+      "incorrect_answers": ["Wii Sports", "Minecraft", "Super Mario Bros"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What engine did the original &quot;Half-Life&quot; run on?",
+      "correct_answer": "GoldSrc",
+      "incorrect_answers": ["Source", "Quake", "Unreal"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which game did NOT get financed via Crowdfunding?",
+      "correct_answer": "Enter the Gungeon",
+      "incorrect_answers": ["Town of Salem", "Undertale", "Tower Unite"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What company created and developed the game &quot;Overwatch&quot;?",
+      "correct_answer": "Blizzard Entertainment",
+      "incorrect_answers": ["Valve", "Hi-Rez Studios", "Gearbox Software"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In &quot;Metal Gear Solid 2&quot;, you will see through the eyes of Psycho Mantis if you go first person during his boss fight.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the leader of Team Mystic in Pok&eacute;mon Go?",
+      "correct_answer": "Blanche",
+      "incorrect_answers": ["Candela", "Spark", "Willow"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the world&#039;s first handheld game device?",
+      "correct_answer": "Mattel Auto Race",
+      "incorrect_answers": ["Game Boy", "Microvision", "Game &amp; Watch"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the video game &quot;League of Legends&quot; which character is known as &quot;The Sinister Blade&quot;?",
+      "correct_answer": "Katarina",
+      "incorrect_answers": ["Shaco", "Akali", "Zed"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Valve&#039;s &quot;Portal&quot; and &quot;Half-Life&quot; franchises exist within the same in-game universe.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    }
+  ]
+}
